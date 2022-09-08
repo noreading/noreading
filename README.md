@@ -14,7 +14,6 @@
 [<img align="left" alt="dominik-hanke.de" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="noreading | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="Dominik Hanke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Dominik Hanke | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/xing.svg" />][xing]
 [<img align="left" alt="noreading | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
@@ -41,5 +40,4 @@
 [website]: https://dominik-hanke.de
 [twitter]: https://twitter.com/noreading
 [linkedin]: https://www.linkedin.com/in/dominik-hanke/
-[xing]: https://www.xing.com/profile/Dominik_Hanke
 [instagram]: https://www.instagram.com/no_reading/
