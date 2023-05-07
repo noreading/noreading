@@ -7,7 +7,7 @@
 
 - 🌱 I’m learning new things every day.
 - 🧑‍💻 I love to teach kids how to code with [Scratch](https://scratch.mit.edu/) and [micro:bit](https://microbit.org/:bit).
-- 🥅 My goal for 2022 is to contribute to more Open Source projects.
+- 🥅 My goal for 2023 is to contribute to more Open Source projects.
 
 ### Connect with me:
 
